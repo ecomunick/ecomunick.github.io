@@ -31,10 +31,10 @@ export const siteConfig = {
       skills: ["PyTorch", "YOLO", "Computer Vision"],
     },
     {
-      name: "Autonomous Garden Robot",
-      description: "Prototyped a small AI-powered robot for garden monitoring and obstacle avoidance.",
-      link: "https://github.com/ecomunick/garden-robot",
-      skills: ["Python", "ROS", "Robotics", "Deep Learning"],
+      name: "Autonomous Self-Driving Car Prototype",
+      description: "Developed a small-scale autonomous driving system for obstacle detection and navigation using AI and computer vision techniques.",
+      link: "https://github.com/ecomunick/self-driving-car-prototype",
+      skills: ["Python", "Computer Vision", "Deep Learning", "Robotics"],
     },
     {
       name: "Agentic Mental Health Chatbot",
