@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Marcia Cabral",
-  title: "AI & Computer Vision Engineer",
-  description: "Portfolio website of Marcia Cabral — data scientist passionate about AI, robotics, and solving real-world problems",
+  title: "Machine Learning & AI Specialist | Anomaly Detection & Automation",
+  description: "Portfolio website of Marcia Cabral — data scientist passionate about AI, robotics and solving real-world problems",
   accentColor: "#1d4ed8",
   social: {
     email: "marciamunick@gmail.com",
